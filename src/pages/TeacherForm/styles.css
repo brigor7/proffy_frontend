@@ -26,7 +26,8 @@
   padding: 0 2.4rem;
 }
 
-#page-teacher-form main fieldset .input-block {
+#page-teacher-form main fieldset .input-block,
+.textarea-block .select-block {
   margin-top: 1.5rem;
 }
 
